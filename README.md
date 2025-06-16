@@ -34,9 +34,5 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dougbug589&theme=dracula&hide_border=true" height="150" alt="GitHub Streak" />
-</div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dougbug589&theme=dracula&hide_border=true" alt="GitHub Activity Graph" />
-  <br>
-  
 
 ---
