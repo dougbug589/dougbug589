@@ -5,8 +5,8 @@
 ---
 
 <div align="center">
-  <a href="https://linksta.cc/@mak" target="_blank">
-    <img src="https://img.shields.io/badge/LinkStack-My%20Links-%23948AE7?style=for-the-badge&logoColor=white" height="25" alt="LinkStack logo" />
+  <a href="https://mak7.carrd.co/" target="_blank">
+    <img src="https://img.shields.io/badge/carrd-My%20Links-%23948AE7?style=for-the-badge&logoColor=white" height="25" alt="LinkStack logo" />
   </a>
 </div>
 
